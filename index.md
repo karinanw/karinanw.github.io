@@ -1,13 +1,12 @@
----
 layout: default
 title: Karina Wratschko
 ---
 
 
-#Karina Wratschko | ePortfolio
+# Karina Wratschko | ePortfolio
 
 
-<center><img src="images/imberi.jpg" alt="Imberi" />
+<img src="images/imberi.jpg" alt="Imberi" />
 
 > *"The possession of knowledge does not kill the sense of wonder and mystery. 
 There is always more mystery."* - Anais Nin  
