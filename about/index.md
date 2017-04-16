@@ -2,8 +2,6 @@
 layout: default
 title: About Karina Wratschko
 ---
-
-<div class="about">
 ### About
 
 I am passionate about furthering knowledge through access to and preservation of our cultural heritage. 
@@ -15,9 +13,7 @@ and external projects.
 I am the program manager for NDSR Art, a post-graduate residency program where young professionals tackle the challenges 
 of digital preservation of art information. 
 
-			<ul class="contacts">
-				<li><a href="#">@karinanw</a></li>
-				<li><a href="#">Your Departmental Webpage</a></li>
-				<li><a href="#">Another site you want to link to</a></li>
-				</ul>
-		</div>
+
+<a href="https://twitter.com/karinanw">@karinanw</a>
+	
+	
