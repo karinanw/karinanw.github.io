@@ -4,9 +4,7 @@ title: Karina Wratschko
 ---
 
 
-<div class="blurb">
-
- <p>Hello, I'm Karina Wratschko. Thank you for visiting my eportfolio!</p>
+#Karina Wratschko | ePortfolio
 
 
 <center><img src="images/imberi.jpg" alt="Imberi" />
