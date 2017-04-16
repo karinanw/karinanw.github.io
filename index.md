@@ -1,10 +1,7 @@
 ---
 layout: default
-title: Karina Wratschko
+title: Karina Wratschko | ePortfolio
 ---
-
-
-# Karina Wratschko | ePortfolio
 
 {:.center}
 ![Imbeir](/images/imberi.jpg)  
