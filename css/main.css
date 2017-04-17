@@ -19,10 +19,6 @@ a:link {
  color: #678787;
  text-decoration: none;
 }
-a:visited {
- color: DarkSlateGray;
- font-weight: normal;
-}
 a:hover {
   text-decoration: underline;
 }
