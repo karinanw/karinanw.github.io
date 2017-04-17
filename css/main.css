@@ -23,10 +23,25 @@ a:hover {
   text-decoration: underline;
 }
 
-nav a:hover {
-    background-color: #fffaf9;
-    text-decoration: none;
-    font-size: 110%;
+nav. ul li a,
+nav.fill ul li a {
+  position: relative;
+}
+nav.stroke ul li a:after,
+nav.fill ul li a:after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.';
+  color: transparent;
+  background: #aaa;
+  height: 1px;
+}
+nav.stroke ul li a:hover:after {
+  width: 100%;
 }
 
 h1 {
