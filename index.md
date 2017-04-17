@@ -7,7 +7,7 @@ title: Karina Wratschko | ePortfolio
 ![Imbeir](/images/imberi.jpg)  
 
 
->*"The possession of knowledge does not kill the 
-sense of wonder and mystery. 
+>*"The possession of knowledge does not kill the   
+sense of wonder and mystery.   
 There is always more mystery."* - Anais Nin  
 
