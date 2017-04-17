@@ -23,6 +23,11 @@ a:hover {
   text-decoration: underline;
 }
 
+a:active, a:vistied {
+    text-decoration: none;
+    color: #678787;
+}
+
 nav ul li a:after {
   color: transparent;
   background: #aaa;
