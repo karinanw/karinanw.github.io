@@ -66,4 +66,5 @@ ul.posts li {
 
 .quotetext {
    font-size: .8em;
+   display: block;
 }
