@@ -6,11 +6,13 @@ nav ul, footer ul {
     font-family:'Open Sans', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
+    clear: both;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a:link {
  color: #678787;
  text-decoration: none;
