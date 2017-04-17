@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Karina Wratschko | ePortfolio
+title: Karina Wratschko | Art Librarian
 ---
 
-{:.center}
 ![Imbeir](/images/imberi.jpg)  
 
 
