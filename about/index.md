@@ -4,8 +4,6 @@ title: About Karina Wratschko
 ---
 ### About
 
-Hello World! My name is Karina. Thank you for visiting my eportfolio!
-
 I am an art librarian living and working in Philadelphia. I work on the research and development of new initiatives, digital tools, and projects at the [Philadelphia Museum of Art](www.philamuseum.org). What does this mean? Well- at the moment, I am working on the launch of the Museum's first online scholarly publication and I administer an IMLS grant for [NDSR Art](http://ndsr-pma.arlisna.org/), a post-graduate residency program where new professionals address the challenges of preserving digital art and art information. 
 
 I am passionate about furthering knowledge through access to and preservation of our cultural heritage. 
