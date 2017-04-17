@@ -33,9 +33,9 @@ h1 {
     letter-spacing: 0.2em;
 }
 h2 {
-    font-family: Avenir, Helvetica, Verdana, sans-serif;
+    font-family: 'Open Sans', 'Arial', 'Sans-Serif';
     font-size: 1.5em;
-    color: #678787;
+    color: DarkSlateGray;
 }
 p {
     font-size: 1em;
