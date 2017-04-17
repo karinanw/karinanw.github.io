@@ -61,4 +61,5 @@ ul.posts li {
     width: 63%;
     float: left;
     margin: 0 1em 1em 0;
+    display: block;
 }
