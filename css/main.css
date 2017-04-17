@@ -63,3 +63,7 @@ ul.posts li {
     margin: 0 1em 1em 0;
     display: block;
 }
+
+.quotetext {
+   font-size: 1em;
+}
