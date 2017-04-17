@@ -56,13 +56,13 @@ ul.posts li {
 .homeimage img {
     width: 63%;
     float: left;
-    margin: 0 1em 1em 0;
     display: block;
 }
 
 .quotetext {
-   width: 63%;
-   font-size: .8em;
-   display: block;
-   float: left;
+    width: 63%;
+    font-size: .8em;
+    display: block;
+    float: left;
+    margin: 1em 0 1em 0;
 }
