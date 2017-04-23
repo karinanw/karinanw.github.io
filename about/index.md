@@ -3,7 +3,7 @@ layout: default
 title: About Karina Wratschko
 ---
 ## About
-
+<span>
 I am an art librarian living and working in Philadelphia. I work on the research and development of new initiatives, digital tools, and projects at the [Philadelphia Museum of Art](www.philamuseum.org). What does this mean? Well- at the moment, I am working on the launch of the Museum's first online scholarly publication and I administer an IMLS grant for [NDSR Art](http://ndsr-pma.arlisna.org/), a post-graduate residency program where new professionals address the challenges of preserving digital art and art information. 
 
 I am passionate about furthering knowledge through access to and preservation of our cultural heritage. 
@@ -13,5 +13,5 @@ and create a more collaborative learning environment.
 Additionally, I enjoy traveling abroad, gardening, yoga, climbing, and taking pictures. 
 
 Please feel free to send an [email](mailto:karina.wratschko@gmail.com) or look for me on [Twitter](https://twitter.com/karinanw)
-	
+</span>
 	
