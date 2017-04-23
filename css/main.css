@@ -40,9 +40,7 @@ a:active, a:visited {
 }
 
 p span {
-    font-size:16px; 
-    font-style: italic; 
-    margin-top:50px;
+    margin-left: 2em;
 }
 
 h1 {
