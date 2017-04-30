@@ -16,6 +16,6 @@ and create a more collaborative learning environment.
 
 Additionally, I enjoy traveling abroad, gardening, yoga, climbing, and taking pictures. 
 
-Please feel free to send an [email](mailto:karina.wratschko@gmail.com) or look for me on [Twitter](https://twitter.com/karinanw)
+Please feel free to send an [email](mailto:karina.wratschko@gmail.com "karina.wratschko@gmail.com") or look for me on [Twitter](https://twitter.com/karinanw "@karinanw")
 
 
