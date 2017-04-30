@@ -5,7 +5,7 @@ title: Karina Wratschko | Art Librarian
 <img class="homeimage">
 ![Imbeir](/images/imberi.jpg)  
 
->{.blockquote}{#quotetext}
+{#quotetext}
 *"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."---Anais Nin*  
 
 
