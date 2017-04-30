@@ -80,7 +80,6 @@ ul.posts li {
 .quotetext {
     width: 63%;
     font-size: .8em;
-    display: block;
     float: left;
     margin: 1em 0 1em 0;
 }
