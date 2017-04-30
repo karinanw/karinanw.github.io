@@ -73,18 +73,18 @@ ul.posts li {
 
 .homeimage img {
     width: 63%;
-    float: left;
+    float: center;
     margin: 0 3em 0 0;
 }
 
 .quotetext {
-    width: 63%;
+    width: 50%;
     font-size: .8em;
-    float: left;
+    float: center;
     margin: 1em 0 1em 0;
 }
 
 .intro {
     display: block;
-    margin: 0 ;
+    margin: 0 0 2em 0;
 }
